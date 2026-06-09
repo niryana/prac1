@@ -10,3 +10,5 @@ print("Bakit ayaw na mapush tooooo")
 print("wag na mag explore")
 
 print("give up nalang tau beh")
+
+print("ok alam q na")
