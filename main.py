@@ -8,3 +8,5 @@ print("Hellow World!")
 print("Bakit ayaw na mapush tooooo")
 
 print("wag na mag explore")
+
+print("give up nalang tau beh")
